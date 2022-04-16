@@ -1,3 +1,4 @@
+//this code was made off of a threejs template, and i just added to it. thats why you'll see comments.
 const scene = new THREE.Scene(); {
   const color = "lightblue";
   const density = 0.03;
