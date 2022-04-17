@@ -4,6 +4,6 @@ This is a fighting game I made where you have to battle an AI, the controls are 
 also, to move fast, you have to spam the arrow keys.
 and, for jumping; it's the up arrow key, not space bar.
 
-if you would want to mod the game, check out console.js
+if you would want to mod the game, check out `console.js`
 
 here's a working version: https://fight-the-ai.jacktoons.repl.co 
